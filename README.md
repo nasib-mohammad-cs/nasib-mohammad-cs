@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nasib-mohammad-cs
 - 👀 I’m interested in network infrastructure
-- 🌱 I’m currently learning AWS functionality
 - 💞️ I’m looking to collaborate on hosting related problems
 - 📫 How to reach me nasib.mohammad.cs@gmail.com
 
